@@ -17,8 +17,8 @@ To close an issue you will need to:
 1. Create a branch (it's a good idea to add the issue number and a meaningful name in the branch) - `git checkout -b 1-create-gemfile`
 2. Write the code you need to satisfy the requirements of the issue
 3. When you're done commit it, adding to the commit message the number of the issue you are closing - `git commit -am "Create Gemfile. Closes #1`
-4. and push your branch
-5. [Create a pull request[(https://help.github.com/articles/creating-a-pull-request/), in the description you need to add your pair partner and which issues you have fixed (don't worry if you don't do this, our automated bot will guide you) - `Created a new Gemfile and ran bundle. Pair @joebloggs, closes #1`
+4. Push your branch to GitHub
+5. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/), in the description you need to add your pair partner and which issues you have fixed (don't worry if you don't do this, our automated bot will guide you) - `Created a new Gemfile and ran bundle. Pair @joebloggs, closes #1`
 6. Wait for the bot to give you instructions once it's happy your pull request is ready to be checked by a coach, and then merge the pull request (a coach will mark it later)
 7. Both you and your pairs should pull master once you've merged the pull request to update your local branch
 
