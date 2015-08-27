@@ -14,7 +14,7 @@ Use [GitHub pong](https://github.com/makersacademy/course/blob/master/pills/gith
 
 To close an issue you will need to:
 
-1. Create a branch (it's a good idea to add the issue number and a meaningful name in the branch) - `git co -b 1-create-gemfile`
+1. Create a branch (it's a good idea to add the issue number and a meaningful name in the branch) - `git checkout -b 1-create-gemfile`
 2. Write the code you need to satisfy the requirements of the issue
 3. When you're done commit it, adding to the commit message the number of the issue you are closing - `git commit -am "Create Gemfile. Closes #1`
 4. and push your branch
